@@ -25,4 +25,4 @@
   "version": "2.2.0",
   "tags": ["System", "Gateway", "API"]
 } -->
-*Built-in System Extension v2.1.0*
+*Built-in System Extension v2.2.0*
