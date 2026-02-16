@@ -23,6 +23,7 @@
   "description": "系统级外部请求监控中心。负责拦截、验证并处理来自 ADB、Intent 或第三方应用的 API 调用。",
   "author": "System",
   "version": "2.2.0",
+  "icon_code": 61477,
   "tags": ["System", "Gateway", "API"],
   "permissions": [
     "readEvents",
