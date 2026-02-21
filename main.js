@@ -1,7 +1,7 @@
 // Initialize state
 const state = _state;
-state.username = state.username || 'lpwcnm'; // Default user
-state.defaultTags = state.defaultTags || 'Bangumi';
+state.username = state.username || '';
+state.defaultTags = state.defaultTags || '';
 state.collectionList = state.collectionList || [];
 state.loading = false;
 
